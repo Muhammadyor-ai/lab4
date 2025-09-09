@@ -1,17 +1,17 @@
 //problem 1
 //#include <iostream>
-
+//using namespace std;
 //int main() {
 //    int intNumber=24;
 //    float floatNumber=3.1415;
 //    double doubleNumber=45.1234;
 //    bool boolean=true;
 //    char charName='A';
-//    std::cout << "Value of the Integer is "<<intNumber<<". Size is "<<sizeof(intNumber)<<"\n";
-//    std::cout << "Value of the Float is "<<floatNumber<<". Size is "<<sizeof(floatNumber)<<"\n";
-//    std::cout << "Value of the Double is "<<doubleNumber<<". Size is "<<sizeof(doubleNumber)<<"\n";
-//    std::cout << "Value of the Char is "<<charName<<". Size is "<<sizeof(charName)<<"\n";
-//    std::cout << "Value of the Bool is "<<boolean<<". Size is "<<sizeof(boolean)<<"\n";
+//    cout << "Value of the Integer is "<<intNumber<<". Size is "<<sizeof(intNumber)<<"\n";
+//    cout << "Value of the Float is "<<floatNumber<<". Size is "<<sizeof(floatNumber)<<"\n";
+//    cout << "Value of the Double is "<<doubleNumber<<". Size is "<<sizeof(doubleNumber)<<"\n";
+//    cout << "Value of the Char is "<<charName<<". Size is "<<sizeof(charName)<<"\n";
+//    cout << "Value of the Bool is "<<boolean<<". Size is "<<sizeof(boolean)<<"\n";
 //    return 0;
 //}
 //problem 2
